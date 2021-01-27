@@ -19,8 +19,7 @@ Your final report should include each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
-  
-https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/District_Summary.png
+ 
 
 ### School Summary
 
@@ -36,7 +35,6 @@ https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/Distri
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/SchoolSummary.png
 
 ### Top Performing Schools (By % Overall Passing)
 
@@ -52,25 +50,21 @@ https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/School
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/TopPerformer.png
 
 ### Bottom Performing Schools (By % Overall Passing)
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
-https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/BottomPerformer.png
 
 ### Math Scores by Grade
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/MathGrade.png
 
 ### Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/ReadGrade.png
 
 ### Scores by School Spending
 
@@ -81,13 +75,11 @@ https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/ReadGr
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/SpendScores.png
   
 ### Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/SizeScores.png
 
 ### Scores by School Type
 
@@ -100,5 +92,5 @@ As final considerations:
 * You must include a written description of at least two observable trends based on the data.
 * See [Example Solution](PyCitySchools/PyCitySchools_starter.ipynb) for a reference on the expected format.
 
-https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/TypeScores.png
+
 
