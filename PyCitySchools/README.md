@@ -11,6 +11,7 @@
 ### District Summary
 
 ![District Summary](Images/District_Summary.png | width=2020)
+<img src="" alt="District Summary" width="2020">
 
 
 
