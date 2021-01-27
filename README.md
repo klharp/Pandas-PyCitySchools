@@ -20,7 +20,7 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-C:\Users\khagl\OneDrive\Desktop\BootcampHomework\pandas-challenge\PyCitySchools\Images\District_Summary.png
+PyCitySchools\Images\District_Summary.png
 
 ### School Summary
 
@@ -36,7 +36,7 @@ C:\Users\khagl\OneDrive\Desktop\BootcampHomework\pandas-challenge\PyCitySchools\
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-C:\Users\khagl\OneDrive\Desktop\BootcampHomework\pandas-challenge\PyCitySchools\Images\SchoolSummary.png
+PyCitySchools\Images\SchoolSummary.png
 
 ### Top Performing Schools (By % Overall Passing)
 
