@@ -22,7 +22,7 @@
 
 ### Top Performing Schools (By % Overall Passing)
 
-<img src="Images/TopPerformer.png" alt="Top Performers" width="1067" height="615">
+<img src="Images/TopPerformer.png" alt="Top Performers" width="1067" height="307">
 
 
 
