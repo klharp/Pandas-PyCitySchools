@@ -10,52 +10,52 @@
  
 ### District Summary
 
-<img src="Images/District_Summary.png" alt="District Summary" width="2021" height="242">
+<img src="Images/District_Summary.png" alt="District Summary" width="1010" height="121">
 
 
 
 ### School Summary
 
-<img src="Images/SchoolSummary.png" alt="School Summary" width="2142" height="1336">
+<img src="Images/SchoolSummary.png" alt="School Summary" width="1071" height="668">
 
 
 
 ### Top Performing Schools (By % Overall Passing)
 
-<img src="Images/TopPerformer.png" alt="Top Performers" width="2134" height="615">
+<img src="Images/TopPerformer.png" alt="Top Performers" width="1067" height="615">
 
 
 
 ### Bottom Performing Schools (By % Overall Passing)
 
-<img src="Images/BottomPerformer.png" alt="Bottom Performers" width="2126" height="571">
+<img src="Images/BottomPerformer.png" alt="Bottom Performers" width="2126" height="307">
 
 
 
 ### Math Scores by Grade
 
-<img src="Images/MathGrade.png" alt="Math Scores" width="698" height="1023">
+<img src="Images/MathGrade.png" alt="Math Scores" width="349" height="511">
 
 
 ### Reading Scores by Grade
 
-<img src="Images/ReadGrade.png" alt="Reading Scores" width="713" height="1009">
+<img src="Images/ReadGrade.png" alt="Reading Scores" width="356" height="504">
 
 
 
 ### Scores by School Spending
 
-<img src="Images/SpendScores.png" alt="Scores by School Spending" width="1772" height="378">
+<img src="Images/SpendScores.png" alt="Scores by School Spending" width="886" height="189">
 
 
   
 ### Scores by School Size
 
-<img src="Images/SizeScores.png" alt="Scores by School Size" width="1658" height="315">
+<img src="Images/SizeScores.png" alt="Scores by School Size" width="829" height="157">
 
 
 ### Scores by School Type
 
-<img src="Images/TypeScores.png" alt="Scores by School Type" width="1556" height="275">
+<img src="Images/TypeScores.png" alt="Scores by School Type" width="778" height="137">
 
 
