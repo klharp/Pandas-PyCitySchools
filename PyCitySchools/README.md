@@ -10,54 +10,54 @@
  
 ### District Summary
 
-![District Summary](Images/District_Summary.png width="2020")
+![District Summary](Images/District_Summary.png | width=2020)
 
 
 
 ### School Summary
 
-![School Summary](Images/SchoolSummary.png width="2100")
+![School Summary](Images/SchoolSummary.png | width=2100)
 
 
 
 ### Top Performing Schools (By % Overall Passing)
 
-![Top Performers](Images/TopPerformer.png width="2100")
+![Top Performers](Images/TopPerformer.png | width=2100)
 
 
 
 ### Bottom Performing Schools (By % Overall Passing)
 
-![Bottom Performers](Images/BottomPerformer.png width="2100")
+![Bottom Performers](Images/BottomPerformer.png | width=2100)
 
 
 
 ### Math Scores by Grade
 
-![Math Scores](Images/MathGrade.png width="710")
+![Math Scores](Images/MathGrade.png | width=710)
 
 
 
 ### Reading Scores by Grade
 
-![Reading Scores](Images/ReadGrade.png width="710")
+![Reading Scores](Images/ReadGrade.png | width=710)
 
 
 
 ### Scores by School Spending
 
-![Scores by School Spending](Images/SpendScores.png width="1770")
+![Scores by School Spending](Images/SpendScores.png |width=1770)
 
 
   
 ### Scores by School Size
 
-![Scores by School Size](Images/SizeScores.png width="1650")
+![Scores by School Size](Images/SizeScores.png | width=1650)
 
 
 
 ### Scores by School Type
 
-![Scores by School Type](Images/TypeScores.png width="1550")
+![Scores by School Type](Images/TypeScores.png | width=1550)
 
 
