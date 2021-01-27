@@ -20,7 +20,7 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-PyCitySchools/Images/District_Summary.png
+https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/District_Summary.png
 
 ### School Summary
 
@@ -36,7 +36,7 @@ PyCitySchools/Images/District_Summary.png
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-![]PyCitySchools/Images/SchoolSummary.png
+https://github.com/klharp/pandas-challenge/blob/main/PyCitySchools/Images/SchoolSummary.png
 
 ### Top Performing Schools (By % Overall Passing)
 
