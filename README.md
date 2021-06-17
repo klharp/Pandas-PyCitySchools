@@ -1,5 +1,13 @@
 # Pandas Homework - Pandas, Pandas, Pandas
 
+## Project Overview
+This project analyzes the standardized test results of a school district. The data is aggregated and trends were identified.
+
+Languages and libraries used:
+
+* Pandas
+
+---
 
 ## PyCitySchools
 
